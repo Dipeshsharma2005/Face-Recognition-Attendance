@@ -14,7 +14,6 @@ Smart and secure attendance system using AI-powered face recognition.
 ![Flask](https://img.shields.io/badge/Backend-Flask-orange)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Stars](https://img.shields.io/github/stars/Dipeshsharma2005/Face-Recognition-Attendance?style=social)
 
 A **Face Recognition based Attendance System** that automatically detects and recognizes faces using a webcam and records attendance in real-time.
 The project uses **Computer Vision and Machine Learning** to eliminate manual attendance marking.
